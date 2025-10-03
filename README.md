@@ -50,7 +50,7 @@ brew install python3 jq git node
 ### 1. Install Security Tools
 
 ```bash
-./cloud_security_audit.sh --install
+sudo ./cloud_security_audit.sh --install
 ```
 
 This will automatically install:
